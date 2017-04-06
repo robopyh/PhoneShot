@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.ow2.chameleon.commons.bluecove:bluecove:2.1.1-63" type="repository">
+    <properties maven-id="org.ow2.chameleon.commons.bluecove:bluecove:2.1.1-63" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bluecove-2.1.1-63.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
